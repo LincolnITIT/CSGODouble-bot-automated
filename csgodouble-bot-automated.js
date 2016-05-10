@@ -2,7 +2,7 @@
 // @name            csgodouble.com - automated
 // @description     An userscript that automates csgodouble.com betting using 6 chooseble systems.
 // @namespace       csgodouble.com - automated
-// @version         1.50
+// @version         1.40
 // @author          CrownMan
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
